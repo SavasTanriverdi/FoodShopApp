@@ -19,7 +19,7 @@ FoodShopApp is an Android application designed to provide a seamless shopping ex
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/FoodShopApp.git
+    git clone https://github.com/SavasTanriverdi/FoodShopApp.git
     ```
 2. Open the project in Android Studio.
 3. Build the project and run it on an emulator or a physical device.
