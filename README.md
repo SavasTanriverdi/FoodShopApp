@@ -12,8 +12,7 @@ FoodShopApp is an Android application designed to provide a seamless shopping ex
 
 ## Screenshots
 
-<img src="![Screenshot_20241228_005814](https://github.com/user-attachments/assets/36577404-6659-4bc9-9ed0-b92ef4918a17)
-" width="300">
+<img src="https://github.com/user-attachments/assets/cbe44991-a618-451b-80ee-625b8b808036" width="300">
 
 
 ## Installation
